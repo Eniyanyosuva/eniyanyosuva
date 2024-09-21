@@ -49,4 +49,9 @@
 
 ---
 
-<h3 align="left" style="color: #333;">🔥 My Stats:</h3>
+<h3 align="left" style="color: #333;">🔥 My GitHub Stats:</h3>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eniyanyosuva&theme=dark&background=000000" alt="GitHub streak" />
+</p>
+
+---
