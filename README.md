@@ -54,4 +54,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eniyanyosuva&theme=dark&background=000000" alt="GitHub streak" />
 </p>
 
+![snake gif](https://github.com/eniyanyosuva/eniyanyosuva/blob/output/github-contribution-grid-snake.svg)
 ---
