@@ -1,4 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=eniyanyosuva.eniyanyosuva" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Eniyan+Yosuva!;" />
+</h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/eniyanyosuva" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn logo" />
@@ -7,12 +10,6 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Gmail logo" />
   </a>
 </div>
-
----
-
-<h1 align="center" style="color: #4A90E2;">👋 Hello, I'm Eniyan Yosuva!</h1>
-
----
 
 <h3 align="left" style="color: #333;">👩‍💻 About Me</h3>
 
