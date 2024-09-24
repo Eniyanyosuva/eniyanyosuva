@@ -16,9 +16,8 @@
  
  🌱 I’m currently learning **AI&ML, Advance Algorithms , AWS**
 
- 
 
-"feel free to contacts" 📲
+
 
  </div>
  
