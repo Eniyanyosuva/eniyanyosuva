@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=eniyanyosuva.eniyanyosuva" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=100&duration=4000&lines=Hey+there!+👋;+I'm+Eniyan+Yosuva!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=100&duration=4000&lines=Hey+there!+👋;+I'm+Eniyan+Yosuva!;" />
 </h1>
 
-<h3 align="center">Blockchain Developer | Rust & Solana Enthusiast | B.Tech CSE Student</h3>
+<h3 align="center">Blockchain & Smart Contract Developer | Rust & Solana Enthusiast | B.Tech CSE Student</h3>
 
 <br/>
 
@@ -12,7 +12,7 @@
   
  💻 Always open to collaborate on exciting Web3 & Blockchain projects  
  
- 🔭 Currently building on **Solana with Rust**  
+ 🔭 Currently building on **Solana with Rust & Ethereum with Solidity**  
  
  🌱 Exploring **Zero Knowledge Proofs, Smart Contracts, Dapps, and AI/ML**  
  
@@ -36,6 +36,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/SmartContracts-121D33?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Hardhat-f0e040?style=for-the-badge&logo=hardhat&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
