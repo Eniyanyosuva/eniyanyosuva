@@ -7,17 +7,17 @@
 </h1>
 
 <h3 align="center">
-  Blockchain & Smart Contract Developer | Rust & Solana Enthusiast | B.Tech CSE Student
+  Blockchain & Smart Contract Engineer | Rust & Solidity Developer
 </h3>
 
 ---
 
 ### 🧠 About Me  
-- 💻 Deeply passionate about Web3, Blockchain, and Smart Contract development  
-- 🦀 Building scalable dApps using Rust, Anchor, and the Solana ecosystem  
-- 🧩 Exploring MPC, Multisigs, Validators, and Automation in Web3  
-- ⚡ Currently developing high-performance Rust-based Solana projects  
-- 🍉 Founder of **Solmellons** — crafting next-gen blockchain infrastructure  
+- Deeply into Web3, Blockchain, and Smart Contract development  
+- Building scalable dApps using Rust, Anchor, and the Solana ecosystem  
+- Exploring MPC, Multisigs, Validators, and Automation in Web3  
+- Currently developing high-performance Rust-based Solana projects  
+- Founder of **Solmellons** — crafting next-gen blockchain infrastructure solutions  
 
 ---
 
@@ -34,17 +34,13 @@
 
 ### 💼 Tech Stack  
 
-**Languages:**  
-🦀 Rust · 💎 Solidity · 🐍 Python · 🕸️ JavaScript · ☕ Java  
+**Languages:**  🦀 Rust · 💎 Solidity · 🐍 Python · 🕸️ JavaScript · ☕ Java  
 
-**Blockchain & Frameworks:**  
-🌐 Solana · 🪙 Anchor · ⚙️ Pinocchio · 🧠 Web3.js · ⛓️ Metaplex  
+**Blockchain & Frameworks:**  🌐 Solana · 🪙 Anchor · ⚙️ Pinocchio · 🧠 Web3.js · ⛓️ Metaplex  
 
-**Tools & Infrastructure:**  
-🧰 Git · 🧪 Hardhat · 🧩 Node.js · ☁️ AWS · ⚡ Docker  
+**Tools & Infrastructure:**  🧰 Git · 🧪 Hardhat · 🧩 Node.js · ☁️ AWS · ⚡ Docker  
 
-**Frontend:**  
-🖥️ React · 🔮 TailwindCSS · 💫 Next.js  
+**Frontend:**  🖥️ React · 🔮 TailwindCSS · 💫 Next.js  
 
 ---
 
@@ -54,8 +50,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eniyanyosuva&theme=dark&background=000000" alt="GitHub streak" />
 </p>
 
-<h3 align="center">🌍 Let's Connect & Build the Future</h3>
-
-<p align="center">
-  <em>“Bridging decentralized ideas into scalable reality.”</em>
-</p>
