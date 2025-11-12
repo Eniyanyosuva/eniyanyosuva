@@ -17,8 +17,7 @@
 - Building scalable dApps using Rust, Anchor, and the Solana ecosystem  
 - Exploring MPC, Multisigs, Validators, and Automation in Web3  
 - Currently developing high-performance Rust-based Solana projects  
-- Founder of **Solmellons** — crafting next-gen blockchain infrastructure solutions  
-
+- Founder of **Solmellons** — delivering scalable high-performance smart contracts solutions
 ---
 
 <div align="center">
