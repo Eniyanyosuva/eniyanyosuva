@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-  Blockchain & Smart Contract Engineer | Rust & Solidity Developer
+  Blockchain & Smart Contract Engineer | Rust & Solidity Developern 
 </h3>
 
 ---
