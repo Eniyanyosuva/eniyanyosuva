@@ -12,7 +12,7 @@
 
 ---
 
-### 🧠 About Me  
+### 🧠 About Me
 - Deeply into Web3, Blockchain, and Smart Contract development
 - Building scalable dApps using Rust, Anchor, and the Solana ecosystem  
 - Exploring MPC, Multisigs, Validators, and Automation in Web3  
