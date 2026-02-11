@@ -7,18 +7,30 @@
 </h1>
 
 <h3 align="center">
-  Blockchain & Smart Contract Engineer | Rust & Solidity Developern 
+  Blockchain & Smart Contract Engineer | Rust & solana Dev
 </h3>
 
 ---
 
 
-### 🧠 About Me
-- Deeply into Web3, Blockchain, and Smart Contract development
-- Building scalable dApps using Rust, Anchor, and the Solana ecosystem
-- Exploring MPC, Multisigs, Validators, and Automation in Web3
-- Currently developing high-performance Rust-based Solana projects
----
+Solana-focused blockchain engineer specializing in high-performance **Rust programs** and **DeFi protocols**. Experienced in building scalable dApps using the Anchor framework with emphasis on security, optimization, and infrastructure development.
+
+## Technical Expertise
+
+### Solana Development
+- **Core:** Anchor Framework, Solana Program Library (SPL), Program-Derived Addresses (PDAs)
+- **DeFi:** Liquidity Pools, AMMs, Staking Protocols, Yield Aggregators
+- **Standards:** Token Programs, NFT Standards (Metaplex), Cross-Program Invocations
+- **Infrastructure:** Validators, RPC Nodes, Transaction Optimization
+
+### Programming & Tools
+`Rust` · `TypeScript` · `Python` · `JavaScript`
+
+### Development Stack
+`Anchor` · `Solana CLI` · `Web3.js` · `Git` · `Docker` · `Node.js`
+
+### Frontend & Integration
+`React` · `Next.js` · `TailwindCSS` · `Wallet Adapter` · `Solana Web3.js`
 
 <div align="center">
   <a href="mailto:pedro.sales.eniyanyosuva11@gmail.com">
@@ -28,19 +40,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
-
----
-
-### 💼 Tech Stack  
-
-**Languages:**  🦀 Rust · 💎 Solidity · 🐍 Python · 🕸️ JavaScript · ☕ Java  
-
-**Blockchain & Frameworks:**  🌐 Solana · 🪙 Anchor · ⚙️ Pinocchio · 🧠 Web3.js · ⛓️ Metaplex  
-
-**Tools & Infrastructure:**  🧰 Git · 🧪 Hardhat · 🧩 Node.js · ☁️ AWS · ⚡ Docker  
-
-**Frontend:**  🖥️ React · 🔮 TailwindCSS · 💫 Next.js  
-
 ---
 
 
