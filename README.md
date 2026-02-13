@@ -13,7 +13,7 @@
 ---
 
 
-Solana-focused blockchain engineer specializing in high-performance **Rust programs** and **DeFi protocols**. Experienced in building scalable dApps using the Anchor framework with emphasis on security, optimization, and infrastructure development.
+Solana-focused fullstack blockchain engineer specializing in high-performance **Rust programs** and **DeFi protocols**. Experienced in building scalable dApps using the Anchor framework with emphasis on security, optimization, and infrastructure development.
 
 ## Technical Expertise
 
