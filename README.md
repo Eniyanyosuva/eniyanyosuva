@@ -1,7 +1,6 @@
 # Eniyan · Rust Developer
-
 Building on-chain programs in Rust · Anchor · Native Solana  
-Senior Blockchain Dev @ Solmellons · VIT-AP CSE (Blockchain & AI)
+Senior Blockchain Dev / VIT-AP CSE (Blockchain & AI)
 
 ![Rust](https://img.shields.io/badge/Rust-000?style=flat&logo=rust&logoColor=F07460)
 ![Anchor](https://img.shields.io/badge/Anchor-9945FF?style=flat)
@@ -12,7 +11,7 @@ Senior Blockchain Dev @ Solmellons · VIT-AP CSE (Blockchain & AI)
 ---
 
 ### Currently
-- Building production Solana programs at [Solmellons](https://solmellons.com)
+- Building production Solana programs at [Solmellons](https://www.linkedin.com/company/dev-watermelons/)
 - Writing native/Pinocchio programs for compute-efficiency
 - Open to senior Solana engineer & protocol roles
 
@@ -22,4 +21,4 @@ Senior Blockchain Dev @ Solmellons · VIT-AP CSE (Blockchain & AI)
 
 ---
 
-[𝕏 @eniyos](https://x.com/eniyos) · [Portfolio](https://eniyanyosuva.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/eniyanyosuva)
+[𝕏](https://x.com/eniyos) · [Portfolio](https://eniyanyosuva.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/eniyanyosuva) · [ Email](mailto:eniyanyosuva11@gmail.com)
