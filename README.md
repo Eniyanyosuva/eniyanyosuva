@@ -1,5 +1,5 @@
 # Eniyan Yosuva
-**AI Systems Engineer** · B.Tech CSE (Blockchain & AI), VIT-AP
+**AI/web3 Systems Engineer** · B.Tech CSE (Blockchain & AI), VIT-AP
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=fff)
