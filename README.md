@@ -1,5 +1,5 @@
 # Eniyan Yosuva
-**Web3 AI Systems & Blockchain Infrastructure Engineer**
+**Web3 Systems & Blockchain Infrastructure Engineer**
 
 Building at the intersection of artificial intelligence, blockchain infrastructure, and distributed systems.
 
