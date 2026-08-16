@@ -1,11 +1,7 @@
 # Eniyan Yosuva
-**Web3 Systems & Blockchain Infrastructure Engineer**
+**Protocol & Security Engineer**
 
-Building at the intersection of artificial intelligence, blockchain infrastructure, and distributed systems.
 
-- Developing Solana smart contracts and Rust-based developer tooling
-- Building agentic AI systems, RAG pipelines, and long-term memory architectures
+I study how programs fail and build tooling that catches it before mainnet. More broadly, I work across protocol design, systems programming, and AI infrastructure — on-chain programs, storage/database internals, agentic AI systems — always circling back to the same question: how does software stay correct under pressure.
 
-**Tech:** Solana · Rust · Anchor · Python · PyTorch · LangChain · LlamaIndex · FastAPI · RAG · Vector Databases · Distributed Systems
-
-[𝕏](https://x.com/eniyos) · [Portfolio](https://eniyos.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/eniyos) · [Email](mailto:eniyanyosuva11@gmail.com)
+[X](https://x.com/eniyos) · [Portfolio](https://eniyos.in) · [LinkedIn](https://www.linkedin.com/in/eniyos) · [Email](mailto:eniyanyosuva11@gmail.com)
